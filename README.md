@@ -44,7 +44,7 @@ These scenarios reflect different assumptions about climate policy, technologica
 
 The model incorporates multiple transition pathways, including:
 
-- Baseline (no additional climate policy action)  
+- Baseline (business-as-usual, assuming no additional climate policy action)  
 - Current Policies  
 - Nationally Determined Contributions (NDCs)  
 - Delayed Transitions
@@ -60,9 +60,10 @@ Each scenario captures different levels of policy ambition, regulatory pressure,
 
 The tool models:
 
-- **Greenhouse gas emissions trajectories** over time  
-- Changes in **carbon pricing and regulatory costs**  
-- Impacts from **energy transition and technology shifts**  
+- **Greenhouse gas emissions trajectories** over time under each climate scenario
+- **Emissions gap** between the baseline and target scenario
+- Changes in **carbon pricing and regulatory costs**
+- Estimated increase in transition costs, calculated by multiplying the emissions gap by the level of carbon prices  
 
 These factors are used to evaluate how transition dynamics affect operational and financial performance.
 
@@ -72,7 +73,7 @@ These factors are used to evaluate how transition dynamics affect operational an
 
 Transition risks are translated into financial metrics, including:
 
-- Eestimated **Carbon cost exposure** under different carbon pricing scenarios  
+- Estimated **carbon cost** under different carbon pricing scenarios  
 - **Carbon Value-at-Risk** (CVaR) to understand the impact on asset value
 - **Implied Temperature Rise** (ITR) to understand the warming potential
 
